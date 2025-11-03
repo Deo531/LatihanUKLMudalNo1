@@ -1,4 +1,8 @@
 # LatihanUKLMudalNo1
+Codingan
+
+<img width="1988" height="2040" alt="Codingan Soal1" src="https://github.com/user-attachments/assets/62c3ede3-412f-4b68-bcd1-2bab6164bd3e" />
+
 
 Output Hasil Coding
 
