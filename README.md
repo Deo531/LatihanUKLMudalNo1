@@ -3,7 +3,8 @@ Codingan
 
 <img width="1988" height="2040" alt="Codingan Soal1" src="https://github.com/user-attachments/assets/62c3ede3-412f-4b68-bcd1-2bab6164bd3e" />
 
-Saya menggunakan scanner untuk menginputkan panjang, lebar, tinggi.
+Saya menggunakan scanner untuk menginputkan panjang, lebar, tinggi, jarak, berat.
+
 Setalah kita menginputkan tersebut, kita bisa menghitung panjang, lebar, tinggi untuk menemukan volume barang
 dengan rumus :
 panjang * lebar * tinggi
